@@ -2,7 +2,7 @@
 
 This repository is part of my **learning journey in Python** — where I’m practicing and understanding different **algorithms** step by step.  
 
-I’m starting with the basics and will keep adding new ones as I learn more!
+I’m starting with the basics and will keep adding new ones as I learn more
 
 ---
 
