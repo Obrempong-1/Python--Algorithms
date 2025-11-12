@@ -50,7 +50,7 @@ elif choice == "2":
                 break
         player_turn = not player_turn
 else:
-    print("Invalid choice. Exiting.")
+    print("Invalid choice. Over.")
 
 
 ''' This program implements the classic Nim Game and determines whether a player can win.
